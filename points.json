@@ -1,8 +1,932 @@
 {
-  "points": [
-    [-2.28,  0,  -1.50],
-    [-2.25,  0,  1.24],
-    [1.99,  0,  -1.52],
-    [2.00,  0,  1.10]
-  ]
+    "Блок интерфейса пользователя": {
+        "coordinates": {
+            "x": -0.25,
+            "y": 5.1,
+            "z": -7.9
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Назначение и органы управления",
+                "code": "KAMAZ54901-CAE3-40-06-00-00DDD-040A-A",
+                "data_module_id": 32576,
+                "publication_id": 2040
+            },
+            {
+                "title": "Режим работы",
+                "code": "KAMAZ54901-CAE3-40-06-00-00DDD-112A-A",
+                "data_module_id": 32577,
+                "publication_id": 2040
+            },
+            {
+                "title": "Экстренный вызов \"SOS\"",
+                "code": "KAMAZ54901-CAE3-40-06-00-00DDD-142A-A",
+                "data_module_id": 32578,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Назначение и органы управления",
+                "code": "KAMAZ54901-CAE3-40-06-00-00DDD-040A-A",
+                "data_module_id": 32576,
+                "publication_id": 2040
+            },
+            {
+                "title": "Режим работы",
+                "code": "KAMAZ54901-CAE3-40-06-00-00DDD-112A-A",
+                "data_module_id": 32577,
+                "publication_id": 2040
+            },
+            {
+                "title": "Экстренный вызов \"SOS\"",
+                "code": "KAMAZ54901-CAE3-40-06-00-00DDD-142A-A",
+                "data_module_id": 32578,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Блоки переключателей": {
+        "coordinates": {
+            "x": 3.04,
+            "y": 0.89,
+            "z": 2.56
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Блоки переключателей на панели приборов",
+                "code": "KAMAZ54901.3-CAE3-37-09-01-00DDD-110A-A",
+                "data_module_id": 32505,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Автономный отопитель кабины",
+                "code": "KAMAZ54901-CAE3-81-06-00-00DDD-040A-A",
+                "data_module_id": 32555,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Блок переключателей на двери водителя": {
+        "coordinates": {
+            "x": -7.8,
+            "y": 4.63,
+            "z": 2.55
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Блоки переключателей на двери водителя",
+                "code": "KAMAZ54901-CAE3-37-10-01-01DDD-110A-A",
+                "data_module_id": 32506,
+                "publication_id": 2040
+            },
+            {
+                "title": "Опускание и подъем боковых стекол водителя/пассажира",
+                "code": "KAMAZ54901-CAE3-61-04-00-00DDD-110A-A",
+                "data_module_id": 32529,
+                "publication_id": 2040
+            },
+            {
+                "title": "Регулировка положения верхней секции зеркала заднего вида",
+                "code": "KAMAZ54901.2-CAE3-82-01-01-00DDD-110A-A",
+                "data_module_id": 32532,
+                "publication_id": 2040
+            },
+            {
+                "title": "Обогрев зеркал",
+                "code": "KAMAZ54901.2-CAE3-82-01-01-02DDD-110A-A",
+                "data_module_id": 32533,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Блок переключателей на двери пассажира": {
+        "coordinates": {
+            "x": 15.1,
+            "y": -6.8,
+            "z": -1.42
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Блок переключателей на двери пассажира",
+                "code": "KAMAZ54901-CAE3-37-10-01-05DDD-110A-A",
+                "data_module_id": 32507,
+                "publication_id": 2040
+            },
+            {
+                "title": "Включение и выключение внутреннего освещения кабины клавишными переключателями, расположенными на двери пассажира",
+                "code": "KAMAZ54901-CAE3-37-14-00-00DDD-730A-A",
+                "data_module_id": 32565,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Опускание и подъем боковых стекол водителя/пассажира",
+                "code": "KAMAZ54901-CAE3-61-04-00-00DDD-110A-A",
+                "data_module_id": 32529,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Блок предохранителей": {
+        "coordinates": {
+            "x": 10.0,
+            "y": -9.4,
+            "z": 3.25
+        },
+        "technical map": [
+            {
+                "title": "Заменить реле",
+                "code": "KAMAZ54901-LV10-37-47-00-00DDD-921A-A",
+                "data_module_id": 32405,
+                "publication_id": 2027
+            },
+            {
+                "title": "Заменить предохранитель",
+                "code": "KAMAZ54901-LA11-37-22-00-00DDD-921A-A",
+                "data_module_id": 32406,
+                "publication_id": 2027
+            }
+        ],
+        "description": [
+            {
+                "title": "Расположение реле и предохранителей",
+                "code": "KAMAZ54901-CT02-37-22-00-00DDD-055A-A",
+                "data_module_id": 32721,
+                "publication_id": 2040
+            },
+            {
+                "title": "Проверка и замена предохранителей",
+                "code": "KAMAZ54901-VH01-37-22-00-00DDD-921A-A",
+                "data_module_id": 32723,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Блок управления наружным освещением": {
+        "coordinates": {
+            "x": -6.42,
+            "y": 2.75,
+            "z": 2.95
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Блок управления наружным освещением",
+                "code": "KAMAZ54901-CT02-37-09-01-01DDD-110A-A",
+                "data_module_id": 32509,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Переключатель света",
+                "code": "KAMAZ54901-CT02-37-09-00-05DDD-110A-A",
+                "data_module_id": 32510,
+                "publication_id": 2040
+            },
+            {
+                "title": "Контурные, габаритные фонари",
+                "code": "KAMAZ54901-CAE3-37-31-01-00DDD-110A-A",
+                "data_module_id": 32512,
+                "publication_id": 2040
+            },
+            {
+                "title": "Ближний свет",
+                "code": "KAMAZ54901-CAE3-37-11-01-00DDD-110A-A",
+                "data_module_id": 32513,
+                "publication_id": 2040
+            },
+            {
+                "title": "Дальний свет",
+                "code": "KAMAZ54901-CAE3-37-11-02-00DDD-110A-A",
+                "data_module_id": 32514,
+                "publication_id": 2040
+            },
+            {
+                "title": "Передние противотуманные фары",
+                "code": "KAMAZ54901.2-CAE3-37-43-00-00DDD-110A-A",
+                "data_module_id": 32515,
+                "publication_id": 2040
+            },
+            {
+                "title": "Задние противотуманные фонари",
+                "code": "KAMAZ54901-VH01-37-16-00-05DDD-110A-A",
+                "data_module_id": 32516,
+                "publication_id": 2040
+            },
+            {
+                "title": "Регулирование угла наклона фар",
+                "code": "KAMAZ54901-CT02-37-18-00-00DDD-110A-A",
+                "data_module_id": 32521,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Бортовая информационная система": {
+        "coordinates": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Органы управления",
+                "code": "KAMAZ54901-CAE3-40-15-03-10DDD-110A-Z",
+                "data_module_id": 32473,
+                "publication_id": 2040
+            },
+            {
+                "title": "Кнопка \"ПИТАНИЕ\" для БИС 2.0 диагональ 15.6 дюйма",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110A-A",
+                "data_module_id": 32474,
+                "publication_id": 2040
+            },
+            {
+                "title": "Включение/Выключение БИС 2.0 диагональ 15.6 дюйма. Подсветка экрана",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-730A-A",
+                "data_module_id": 32475,
+                "publication_id": 2040
+            },
+            {
+                "title": "Главная страница БИС",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-001A-A",
+                "data_module_id": 32476,
+                "publication_id": 2040
+            },
+            {
+                "title": "Верхняя панель главной страницы",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110V-A",
+                "data_module_id": 32477,
+                "publication_id": 2040
+            },
+            {
+                "title": "Виджет \"Уведомления\"",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-915A-A",
+                "data_module_id": 32478,
+                "publication_id": 2040
+            },
+            {
+                "title": "Виджет \"Медиа\"",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110D-A",
+                "data_module_id": 32479,
+                "publication_id": 2040
+            },
+            {
+                "title": "Виджет \"Навигация\"",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-007A-A",
+                "data_module_id": 32480,
+                "publication_id": 2040
+            },
+            {
+                "title": "Виджет информации о дате и времени",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110U-A",
+                "data_module_id": 32481,
+                "publication_id": 2040
+            },
+            {
+                "title": "Панель навигации",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110Q-A",
+                "data_module_id": 32482,
+                "publication_id": 2040
+            },
+            {
+                "title": "Окно управления климатической системой",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110Z-A",
+                "data_module_id": 32483,
+                "publication_id": 2040
+            },
+            {
+                "title": "Окно управления функциями автомобиля",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-034A-A",
+                "data_module_id": 32484,
+                "publication_id": 2040
+            },
+            {
+                "title": "Правая панель главной страницы",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110V-T",
+                "data_module_id": 32485,
+                "publication_id": 2040
+            },
+            {
+                "title": "Виртуальная клавиатура",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-055A-A",
+                "data_module_id": 32486,
+                "publication_id": 2040
+            },
+            {
+                "title": "Меню приложений",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110I-A",
+                "data_module_id": 32487,
+                "publication_id": 2040
+            },
+            {
+                "title": "Телефон",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110B-A",
+                "data_module_id": 32841,
+                "publication_id": 2040
+            },
+            {
+                "title": "Радио",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110C-A",
+                "data_module_id": 32489,
+                "publication_id": 2040
+            },
+            {
+                "title": "Медиа",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110G-A",
+                "data_module_id": 32490,
+                "publication_id": 2040
+            },
+            {
+                "title": "Проводник",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-110H-A",
+                "data_module_id": 32491,
+                "publication_id": 2040
+            },
+            {
+                "title": "Загрузка/Обновление программного обеспечения БИС",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-752A-A",
+                "data_module_id": 32500,
+                "publication_id": 2040
+            },
+            {
+                "title": "Приложение \"Мой Камаз\"",
+                "code": "KAMAZ54901.4-LI52-40-15-03-10DDD-400H-A",
+                "data_module_id": 32501,
+                "publication_id": 2040
+            },
+            {
+                "title": "Приложение \"ПЖД\"",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-400F-A",
+                "data_module_id": 32502,
+                "publication_id": 2040
+            },
+            {
+                "title": "Приложение \"Воздушный подогреватель\"",
+                "code": "KAMAZ54901-LI52-40-15-03-10DDD-400G-A",
+                "data_module_id": 32503,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Вещевой ящик": {
+        "coordinates": {
+            "x": 3.55,
+            "y": 4.3,
+            "z": -9.42
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики и полки",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-041A-A",
+                "data_module_id": 32569,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики в надоконной полке",
+                "code": "KAMAZ54901-CAE3-82-13-01-00DDD-041A-A",
+                "data_module_id": 32570,
+                "publication_id": 2040
+            },
+            {
+                "title": "Доступ к вещевым ящикам спальных мест",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-540A-A",
+                "data_module_id": 32571,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики и полки",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-041A-A",
+                "data_module_id": 32569,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики в надоконной полке",
+                "code": "KAMAZ54901-CAE3-82-13-01-00DDD-041A-A",
+                "data_module_id": 32570,
+                "publication_id": 2040
+            },
+            {
+                "title": "Доступ к вещевым ящикам спальных мест",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-540A-A",
+                "data_module_id": 32571,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики и полки",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-041A-A",
+                "data_module_id": 32569,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики в надоконной полке",
+                "code": "KAMAZ54901-CAE3-82-13-01-00DDD-041A-A",
+                "data_module_id": 32570,
+                "publication_id": 2040
+            },
+            {
+                "title": "Доступ к вещевым ящикам спальных мест",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-540A-A",
+                "data_module_id": 32571,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики и полки",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-041A-A",
+                "data_module_id": 32569,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики в надоконной полке",
+                "code": "KAMAZ54901-CAE3-82-13-01-00DDD-041A-A",
+                "data_module_id": 32570,
+                "publication_id": 2040
+            },
+            {
+                "title": "Доступ к вещевым ящикам спальных мест",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-540A-A",
+                "data_module_id": 32571,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики и полки",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-041A-A",
+                "data_module_id": 32569,
+                "publication_id": 2040
+            },
+            {
+                "title": "Вещевые ящики в надоконной полке",
+                "code": "KAMAZ54901-CAE3-82-13-01-00DDD-041A-A",
+                "data_module_id": 32570,
+                "publication_id": 2040
+            },
+            {
+                "title": "Доступ к вещевым ящикам спальных мест",
+                "code": "KAMAZ54901-CAE3-82-13-00-00DDD-540A-A",
+                "data_module_id": 32571,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Колонка рулевого управления": {
+        "coordinates": {
+            "x": -3.22,
+            "y": 4.55,
+            "z": -0.33
+        },
+        "technical map": [
+            {
+                "title": "Проверить регулировку колонки рулевого управления в сборе",
+                "code": "KAMAZ54901-HB22-34-44-00-00DDD-271A-E",
+                "data_module_id": 32404,
+                "publication_id": 2027
+            }
+        ],
+        "description": [
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рулевое управление",
+                "code": "KAMAZ54901-UR01-34-00-00-00DDD-040A-Z",
+                "data_module_id": 32442,
+                "publication_id": 2040
+            },
+            {
+                "title": "Кнопки управления на рулевом колесе",
+                "code": "KAMAZ54901-CT02-34-02-01-00DDD-040A-Z",
+                "data_module_id": 32451,
+                "publication_id": 2040
+            },
+            {
+                "title": "Регулирование положения рулевого колеса",
+                "code": "KAMAZ54901-CAE3-34-44-00-00DDD-271A-A",
+                "data_module_id": 32545,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Комбинация приборов": {
+        "coordinates": {
+            "x": -5.5,
+            "y": 0.75,
+            "z": 0.45
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Режимы работы комбинации приборов",
+                "code": "KAMAZ54901-CAE3-38-01-00-00DDD-112A-Z",
+                "data_module_id": 32452,
+                "publication_id": 2040
+            },
+            {
+                "title": "Главная страница",
+                "code": "KAMAZ54901-CAE3-38-01-01-00DDD-041A-Z",
+                "data_module_id": 32453,
+                "publication_id": 2040
+            },
+            {
+                "title": "Обнуление пробега автомобиля и среднего расхода топлива за поездку",
+                "code": "KAMAZ54901-CAE3-38-01-01-00DDD-521A-Z",
+                "data_module_id": 32454,
+                "publication_id": 2040
+            },
+            {
+                "title": "Главные страницы интерфейса \"Классика\" комбинации приборов",
+                "code": "KAMAZ54901-CT02-38-01-01-00DDD-115A-Z",
+                "data_module_id": 32455,
+                "publication_id": 2040
+            },
+            {
+                "title": "Главные страницы интерфейсас \"Хай-Тек\" комбинации приборов",
+                "code": "KAMAZ54901-CT02-38-01-01-00DDD-041A-Z",
+                "data_module_id": 32456,
+                "publication_id": 2040
+            },
+            {
+                "title": "Эксплуатационное меню комбинации приборов",
+                "code": "KAMAZ54901-CAE3-38-01-03-02DDD-115A-Z",
+                "data_module_id": 32457,
+                "publication_id": 2040
+            },
+            {
+                "title": "Пункт меню \"Параметры\" комбинации приборов",
+                "code": "KAMAZ54901-CT02-38-01-03-01DDD-041A-Z",
+                "data_module_id": 32458,
+                "publication_id": 2040
+            },
+            {
+                "title": "Пункт меню \"Поездка\" комбинации приборов",
+                "code": "KAMAZ54901-CAE3-38-01-03-05DDD-115A-Z",
+                "data_module_id": 32459,
+                "publication_id": 2040
+            },
+            {
+                "title": "Пункт меню \"Диагностика\" комбинации приборов",
+                "code": "KAMAZ54901-CAE3-38-01-03-04DDD-115A-Z",
+                "data_module_id": 32460,
+                "publication_id": 2040
+            },
+            {
+                "title": "Пункт меню \"Настройки\" комбинации приборов",
+                "code": "KAMAZ54901-CAE3-38-01-03-03DDD-115A-A",
+                "data_module_id": 32461,
+                "publication_id": 2040
+            },
+            {
+                "title": "Контрольные сигнализаторы на дисплее комбинации приборов",
+                "code": "KAMAZ54901-CT02-38-01-04-00DDD-040A-A",
+                "data_module_id": 32472,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Комбинированый переключатель": {
+        "coordinates": {
+            "x": -5.68,
+            "y": 4.3,
+            "z": 0.8
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Комбинированный переключатель",
+                "code": "KAMAZ54901-CAE3-37-09-00-01DDD-110A-A",
+                "data_module_id": 32508,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Дальний свет",
+                "code": "KAMAZ54901-CAE3-37-11-02-00DDD-110A-A",
+                "data_module_id": 32514,
+                "publication_id": 2040
+            },
+            {
+                "title": "Указатели поворота",
+                "code": "KAMAZ54901-CAE3-37-26-00-00DDD-110A-A",
+                "data_module_id": 32519,
+                "publication_id": 2040
+            },
+            {
+                "title": "Предупредительный световой сигнал",
+                "code": "KAMAZ54901-CAE3-37-38-00-00DDD-110A-A",
+                "data_module_id": 32520,
+                "publication_id": 2040
+            },
+            {
+                "title": "Стеклоочистители",
+                "code": "KAMAZ54901-CAE3-52-05-00-00DDD-040A-A",
+                "data_module_id": 32522,
+                "publication_id": 2040
+            },
+            {
+                "title": "Стеклоомыватель",
+                "code": "KAMAZ54901-CAE3-52-05-01-00DDD-110A-A",
+                "data_module_id": 32525,
+                "publication_id": 2040
+            },
+            {
+                "title": "Звуковой сигнал",
+                "code": "KAMAZ54901-CAE3-37-21-00-00DDD-110A-A",
+                "data_module_id": 32526,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Переключатель управления АКПП": {
+        "coordinates": {
+            "x": -1.4,
+            "y": 2.1,
+            "z": -0.25
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Переключатель передач",
+                "code": "KAMAZ54901.2-GDR0-17-02-00-00DDD-110A-A",
+                "data_module_id": 32600,
+                "publication_id": 2040
+            },
+            {
+                "title": "Автоматическое управление коробкой передач",
+                "code": "KAMAZ54901-GDR0-17-02-00-00DDD-112B-A",
+                "data_module_id": 32842,
+                "publication_id": 2040
+            },
+            {
+                "title": "Ручное управление коробкой передач",
+                "code": "KAMAZ54901-GDR0-17-02-00-00DDD-112C-A",
+                "data_module_id": 32602,
+                "publication_id": 2040
+            },
+            {
+                "title": "Режимы маневрирования \"DM\" и \"RM\"",
+                "code": "KAMAZ54901-GDR0-17-02-00-00DDD-112D-A",
+                "data_module_id": 32603,
+                "publication_id": 2040
+            },
+            {
+                "title": "Режим движения",
+                "code": "KAMAZ54901.2-GDR0-17-02-00-00DDD-112H-A",
+                "data_module_id": 32608,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Рычаг управления стояночной тормозной системой": {
+        "coordinates": {
+            "x": 1.4,
+            "y": 0.78,
+            "z": 2.4
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Рычаг управления электронной стояночной тормозной системой",
+                "code": "KAMAZ54901-BV00-35-07-00-00DDD-110A-A",
+                "data_module_id": 32619,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Растормаживание стояночной тормозной системы",
+                "code": "KAMAZ54901-BV00-35-07-00-00DDD-120A-A",
+                "data_module_id": 32620,
+                "publication_id": 2040
+            },
+            {
+                "title": "Временный стояночный тормоз, функция \"Auto Hold\"",
+                "code": "KAMAZ54901-BV00-35-07-00-00DDD-130A-A",
+                "data_module_id": 32622,
+                "publication_id": 2040
+            },
+            {
+                "title": "Независимое торможение полуприцепа",
+                "code": "KAMAZ54901-BV00-35-07-00-00DDD-112A-A",
+                "data_module_id": 32623,
+                "publication_id": 2040
+            },
+            {
+                "title": "Растормаживание полуприцепа",
+                "code": "KAMAZ54901-BV00-35-07-00-00DDD-510A-A",
+                "data_module_id": 32624,
+                "publication_id": 2040
+            },
+            {
+                "title": "Притормаживание тягача и полуприцепа",
+                "code": "KAMAZ54901-BV00-35-07-00-00DDD-161A-A",
+                "data_module_id": 32625,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Тахограф": {
+        "coordinates": {
+            "x": -2.44,
+            "y": 6.25,
+            "z": -7.8
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Тахограф цифровой",
+                "code": "KAMAZ54901-CAE3-38-40-00-00DDD-041A-A",
+                "data_module_id": 32568,
+                "publication_id": 2040
+            },
+            {
+                "title": "Схема пломбирования автомобиля",
+                "code": "KAMAZ54901-UR01-39-04-01-00DDD-067D-Z",
+                "data_module_id": 32436,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Электронный замок": {
+        "coordinates": {
+            "x": -1.5,
+            "y": 0.25,
+            "z": 1.55
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Электронный замок",
+                "code": "KAMAZ54901-CAE3-40-14-00-08DDD-040A-Z",
+                "data_module_id": 32450,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Пуск двигателя",
+                "code": "KAMAZ54901.2-CAE3-40-14-00-08DDD-730A-A",
+                "data_module_id": 32587,
+                "publication_id": 2040
+            }
+        ]
+    },
+    "Электророзетки ": {
+        "coordinates": {
+            "x": -0.16,
+            "y": 5.5,
+            "z": -8.45
+        },
+        "technical map": [],
+        "description": [
+            {
+                "title": "Электророзетки",
+                "code": "KAMAZ54901-CAE3-37-23-00-00DDD-041A-A",
+                "data_module_id": 32567,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Электророзетки",
+                "code": "KAMAZ54901-CAE3-37-23-00-00DDD-041A-A",
+                "data_module_id": 32567,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            },
+            {
+                "title": "Электророзетки",
+                "code": "KAMAZ54901-CAE3-37-23-00-00DDD-041A-A",
+                "data_module_id": 32567,
+                "publication_id": 2040
+            },
+            {
+                "title": "Рабочее место водителя",
+                "code": "KAMAZ54901-CAE3-50-00-00-00DDD-110A-Z",
+                "data_module_id": 32448,
+                "publication_id": 2040
+            }
+        ]
+    }
 }
